@@ -47,6 +47,7 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![241382835-a8318467-ebe3-46dd-918c-cd9ebb57ff9e](https://github.com/Sakthimurugavel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707246/4c1fc7d9-320a-4d02-accc-d2ab5af24c0c)
 
 ### Name:M.SAKTHIVEL
 ### Register Number:212222240088
